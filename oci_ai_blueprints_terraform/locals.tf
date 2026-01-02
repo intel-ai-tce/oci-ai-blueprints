@@ -20,7 +20,7 @@ locals {
     recipe_validation_shape_availability_enabled   = "True"
     https_flag                                     = "False"
     portal_demo_flag                               = "False"
-    blueprints_object_storage_url                  = "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axxt31tmokan/b/bucket-20251222-2228/o/blueprints.json"
+    blueprints_object_storage_url                  = "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axxt31tmokan/b/bucket-20260102-1228/o/blueprints.json"
     shared_node_pool_blueprints_object_storage_url = "https://objectstorage.us-ashburn-1.oraclecloud.com/p/Fg9xXHJ0jreGQlI7t0tjjbHQ4TTZrtMb8vEaaN1apQn1JrtPk-iXzxXFXhfTMv6F/n/iduyx1qnmway/b/blueprints/o/shared_node_pools.json"
     shared_node_pool_documentation_url             = "https://github.com/oracle-quickstart/oci-ai-blueprints/tree/main/docs/shared_node_pools"
     blueprint_documentation_url                    = "https://github.com/oracle-quickstart/oci-ai-blueprints/tree/main/docs/api_documentation"
